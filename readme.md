@@ -12,8 +12,8 @@ BSPWM (I will use lowercase from hereon..)  is a tiling window manager which use
 
 # Docs
 Without wasting further time, you can start reading the documentations.
-1) [Introduction to BSPWM](Introduction.md)
+1) [Introduction to BSPWM](docs/Introduction.md)
 2) [Theory : BSPWM and the Binary Space Partitioning](docs/The_Binary_Space_Partitioning_Theory.md)
-3) [BSPWM Core Interface](Bspwm_Core_Interface.md)
-4) [Writing Nice Configurations](Writing_Nice_Configs.md)
-5) [Official Manpage Expanded](manpage.md)
+3) [BSPWM Core Interface](docs/Bspwm_Core_Interface.md)
+4) [Writing Nice Configurations](docs/Writing_Nice_Configs.md)
+5) [Official Manpage Expanded](docs/manpage.md)
